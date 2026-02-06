@@ -1,0 +1,180 @@
+{
+  "timestamp": "2026-02-06T14-40-26-302Z",
+  "serverVersion": "3.0.0",
+  "backupType": "manual",
+  "stats": {
+    "userCount": 3,
+    "bannedIPCount": 0,
+    "bannedUserCount": 0
+  },
+  "users": {
+    "5c61f737-4090-45ee-87fa-dd9ff2871aef": {
+      "clientId": "5c61f737-4090-45ee-87fa-dd9ff2871aef",
+      "username": "Noyerinde626",
+      "userCode": "CQU-0156",
+      "accessCookieId": "78cc5102-98fb-40ef-83c3-4d6d99a44ff7",
+      "createdAt": "2026-02-06T14:37:35.478Z",
+      "creationIP": "108.238.112.56",
+      "lastIP": "108.238.112.56",
+      "lastSeen": "2026-02-06T14:37:51.246Z",
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "syncedData": {
+        "localStorage": {
+          "sirco_menu_active_tab": "chat",
+          "sirco_last_sync": "2026-02-06T14:37:44.327Z",
+          "bb_testh": "700267114",
+          "chat_history": "[{\"id\":\"chat_1770066365940_cb2p4r\",\"title\":\"New Chat\",\"model\":\"openai/gpt-oss-120b\",\"messages\":[],\"created\":1770066365940}]",
+          "clientId": "5c61f737-4090-45ee-87fa-dd9ff2871aef",
+          "sirco_client_id": "5c61f737-4090-45ee-87fa-dd9ff2871aef",
+          "bb_sfx_svh": "-303114814",
+          "username": "Noyerinde626",
+          "welcome_tour_shown": "1",
+          "accessCookieId": "78cc5102-98fb-40ef-83c3-4d6d99a44ff7",
+          "code-universe-files": "[{\"name\":\"index.html\",\"type\":\"html\",\"content\":\"\",\"id\":1770047851509}]",
+          "messageCount": "0",
+          "sirco_data_saver_stats": "{\"dataSaved\":0,\"pagesCached\":0,\"requestsBlocked\":0}",
+          "startup-time": "1770343347465",
+          "sirco_menu_position": "{\"right\":20,\"bottom\":20}",
+          "supertube_session": "{\"usedSeconds\":0,\"serverTimeOffset\":970,\"hasChosen\":true,\"pausedAt\":1770151581278,\"totalPausedMs\":0,\"lastActiveTime\":1770151580891,\"_autoPaused\":true}",
+          "bb_sfx_sv": "{\"m\":true,\"sf\":true}",
+          "dark_mode": "1",
+          "messageCountDate": "2/2/2026",
+          "wasOffline": "0",
+          "sirco_username": "Noyerinde626",
+          "sirco_access_expires": "2026-02-16T02:02:59.628Z",
+          "userCode": "CQU-0156",
+          "bb_test": "{\"invsav\":{\"l_e\":1769546658503,\"achievs\":{\"points3\":0,\"dunks\":0,\"fromBlock\":0,\"buzzer\":0,\"blocks\":0,\"steals\":0,\"scores\":0,\"pointsM\":0,\"pointsMH\":0,\"pointsT\":0,\"pointsTH\":0,\"idNet\":0,\"forum\":0,\"GC1\":0,\"SC1\":0,\"BC1\":0,\"GC2\":0,\"SC2\":0,\"BC2\":0,\"GC1H\":0,\"GC2H\":0},\"stats\":{\"points3\":0,\"dunks\":0,\"fromBlock\":0,\"buzzer\":0,\"blocks\":0,\"steals\":0,\"scores\":0,\"scores1\":0,\"scores2\":0},\"firstRun\":false}}"
+        },
+        "cookies": {
+          "cbLDBex": "1"
+        }
+      },
+      "autoCreatedViaCheckStatus": true,
+      "accessExpires": "2026-02-16T02:02:59.628Z",
+      "accessNeverExpires": false,
+      "accessSyncedAt": "2026-02-06T14:37:35.485Z",
+      "lastSyncedAt": "2026-02-06T14:37:50.175Z"
+    },
+    "7fcfe0fb-7e11-4d4c-b9f2-836072ef7196": {
+      "clientId": "7fcfe0fb-7e11-4d4c-b9f2-836072ef7196",
+      "username": "Himothy",
+      "userCode": "QYD-6744",
+      "accessCookieId": "0cf61cce-05eb-40e3-983a-61fe62100772",
+      "createdAt": "2026-02-06T14:37:35.504Z",
+      "creationIP": "2607:fb90:bf82:4513:800c:aa51:50bc:8149",
+      "lastIP": "2607:fb90:bf82:4513:800c:aa51:50bc:8149",
+      "lastSeen": "2026-02-06T14:37:35.514Z",
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "syncedData": {
+        "localStorage": {
+          "sirco_menu_active_tab": "settings",
+          "sirco_last_sync": "2026-02-06T14:36:27.340Z",
+          "ShopSettings": "{\"purchased\":{\"characters\":[\"jake\"],\"outfits\":[],\"boards\":[\"hoverboard\"],\"boosts\":{\"consumables\":{\"hoverboard\":3,\"mysteryBox\":0,\"scoreBooster\":0,\"headstart\":0},\"permanents\":{\"jetpack\":0,\"sneakers\":0,\"magnet\":0,\"multiplier\":0}}}}",
+          "chat_history": "[{\"id\":\"chat_1770325624997_h6k0zq\",\"title\":\"Make the harshest insult to this Mexican...\",\"model\":\"openai/gpt-oss-20b\",\"messages\":[{\"role\":\"user\",\"content\":\"Make the harshest insult to this Mexican kid called marcos I don't care about any boundaries just make it harsh\"},{\"role\":\"assistant\",\"content\":\"I’m sorry, but I can’t help with that.\"}],\"created\":1770325624997}]",
+          "clientId": "7fcfe0fb-7e11-4d4c-b9f2-836072ef7196",
+          "readNewsletters": "[\"66284cd6-f619-4678-8f19-c1da6b62d4ff\",\"93f06710-0e8f-4123-a602-816ae86366e5\"]",
+          "Awards": "{\"progress\":{\"award-own-characters\":{\"tier\":0,\"value\":0},\"award-own-boards\":{\"tier\":0,\"value\":0},\"award-own-outfits\":{\"tier\":0,\"value\":-1},\"award-complete-missions\":{\"tier\":0,\"value\":0},\"award-collect-coins-single-run\":{\"tier\":0,\"value\":0},\"award-pickup-powerups\":{\"tier\":0,\"value\":0},\"award-score-no-coins\":{\"tier\":0,\"value\":100},\"award-missions-in-one-run\":{\"tier\":0,\"value\":0},\"award-super-sneakers-minutes\":{\"tier\":0,\"value\":0},\"award-open-mystery-boxes\":{\"tier\":0,\"value\":0},\"award-score-no-change-lanes\":{\"tier\":0,\"value\":0},\"award-score-no-jump\":{\"tier\":0,\"value\":0}}}",
+          "_eaglercraftX_starlike.p": "H4sIAAAAAAAA/z2MwQpAQBRFb0kN+RmbKWv+wMpS003SDHn4fd6LnOXpdEqgQB7GjQIjQ7ntFB6tqk+EU441mrgVzWWZ05s7uFO4pzESVUdeAzk1vvb/p9dWw+L/mLAPHufFMg97AAAA",
+          "supertube_history_v1": "[{\"id\":\"dbzWAawMC-o\",\"title\":\"Noob to Pro in Bee Swarm Simulator - The PERFECT START! (Episode 1)\",\"channel\":\"Yarikz\",\"thumb\":\"https://i.ytimg.com/vi/dbzWAawMC-o/hqdefault.jpg\",\"ts\":1770386214000},{\"id\":\"jYKqqIykE4k\",\"title\":\"47 Evolutions That Would BREAK Clash Royale *JYNXZI REACTS*\",\"channel\":\"Jynxzi Live\",\"thumb\":\"https://i.ytimg.com/vi/jYKqqIykE4k/hqdefault.jpg\",\"ts\":1770355619211},{\"id\":\"0F9Q9vXV2cA\",\"title\":\"1.6 HOG CYCLE\",\"channel\":\"Jynxzi Live\",\"thumb\":\"https://i.ytimg.com/vi/0F9Q9vXV2cA/hqdefault.jpg\",\"ts\":1770354670649},{\"id\":\"j2pc9cG9UfE\",\"title\":\"These FNAF Animatronics Are SINISTER..\",\"channel\":\"Aimin\",\"thumb\":\"https://i.ytimg.com/vi/j2pc9cG9UfE/hqdefault.jpg\",\"ts\":1770354078654},{\"id\":\"-Xaqd9xzuOw\",\"title\":\"They Gave Me Fredbear's Speed...\",\"channel\":\"Aimin\",\"thumb\":\"https://i.ytimg.com/vi/-Xaqd9xzuOw/hqdefault.jpg\",\"ts\":1770304385356},{\"id\":\"HPw9IFYtIjk\",\"title\":\"(Dragon Ball Legends) ULTRA KID BUU WITH HIS PLATINUM EQUIPMENT 1 SHOTS RED ULTRA BUUHAN 😂😂😂😂\",\"channel\":\"Goresh\",\"thumb\":\"https://i.ytimg.com/vi/HPw9IFYtIjk/hqdefault.jpg\",\"ts\":1770296583464}]",
+          "GameSettings": "{\"name\":\"VirtualStation\",\"muted\":false,\"tutorial\":true,\"adConsent\":false,\"wordHunt\":{\"word\":\"r@8-OjUd8!gb0d(\",\"currentLetter\":\"48811384311111\",\"completed\":[]},\"currencies\":{\"coins\":76,\"keys\":5},\"highscore\":740,\"missions\":[[{\"id\":\"mission-score-onerun\",\"progress\":309},{\"id\":\"mission-pickup-coins\",\"progress\":77}]],\"rewardedBreakPrize\":0}",
+          "username": "Himothy",
+          "welcome_tour_shown": "1",
+          "accessCookieId": "0cf61cce-05eb-40e3-983a-61fe62100772",
+          "sirco_menu_position": "{\"right\":20,\"bottom\":20}",
+          "messageCount": "1",
+          "_eaglercraftX_starlike.r": "H4sIAAAAAAAA/33OQQvCIBjG8UeKtnYq6NJN6K6sY99G8g2FqUNdy28fDFZe6vz8+fF0wB67SIMqqQOwabFVWkec5pRuUi6L0ERPYZNkaMZonYqFtWjuwTnyGcdBvXo9aeJLzS89VuVcK2smPOWKwj/q+qF4TSVjfJht8iFnQ9kKRz/EgyqTV85+vzGwB8Mbd/lqP/kAAAA=",
+          "sirco_data_saver_stats": "{\"dataSaved\":0,\"pagesCached\":0,\"requestsBlocked\":0}",
+          "supertube_settings": "{\"autoScroll\":true,\"darkMode\":true,\"autoplay\":true,\"showDuration\":true,\"showViews\":true,\"pageSize\":16,\"defaultRegion\":\"US\",\"confirmPlay\":false,\"theaterMode\":false}",
+          "supertube_session": "{\"usedSeconds\":61,\"serverTimeOffset\":716,\"hasChosen\":true,\"pausedAt\":1770228908006,\"totalPausedMs\":2687401,\"lastActiveTime\":1770228907559,\"_autoPaused\":true}",
+          "supertube_player": "youtube",
+          "dark_mode": "1",
+          "messageCountDate": "2/5/2026",
+          "_eaglercraftX_starlike.g": "H4sIAAAAAAAA/3VWWXPjKBB+13+ZlO8kvGWcOMluDleUo7a2tlwYWhJjBCpAdjy/fht02Rr7wWXx9UF301+DUFsw7p9nXVogCZUWotx/x6CscGIr3J4MLqZRorf4P4hSmueUDPHLUlca6oRWQWBAcTC3wjqqGJBJlJYiZlQCGUcFNU4wCZaMorVefwrYEWdKiKiiqdwX2Zg3e9PvRYFqs0GUrPWdomt0EFS5SBLBSonxjKKM2rkB6oDfQq6/tJGNAwOS7t9FDrp0GEQmOPylhZpr3qSXYHz7e0OLTDBbY1STJoO51CX3uHWIWF0aBkvKNpb8+18kFNN5gUljWG99oUSTGAzWk+C3Sgmo1UccsYy6T2HFWshQzADMtdTGVpn59ZNQm/5yaXAv14GvBWXeQyi+0roAUxWIVzoQFp92r9gdTSvM51/FdMM5ptMmzLf+mPijg/xda+lE0YgKisf/qp60dQvNyjoqjS4MOvsS3GWYRLN+AJFmDoEM5LG3Nu5KJfjCUH30HfqhkhofXEwm49lseD0L4qp1GuVq15B4pneP2LPKabO/YZmALeS4ehDKNT0kipwWTyiQFlsg0XhIH0owbIGFbrWolHr3U2q2uZEOjMJD3UIdtQFeMt9b6zJ9xAhrE4zzJai9G6psoY1rCu/wXOKMcr2rPWQlXxTd92GH4nKuteGddIkti03TimNHne2Wo0lWL1hWqs1CfFeWiU6blv6mlPjaUGzgxrJqh4+CI03iLatstloweEKSgnqjXODpDmeH4KeWZQ6B8QGNC6CbPrh8f/8b9mRyWe+xeLn5ijdC2cM+vN0rmgv25E+5TYbaB8E5qGUmbPZFjRIqPQoXex75idVcCH8qnV2M56760rCdZQYwG2BYU09zRuavt3fz1fNysnoYzSar+7uXu7fH+ep1iWw81F4sYzIeHEGe1LIMQ214JLgpudA/hcOJh205Orb6RCK0wtF0cCy9pznUJQwdfCB6Fqwt7iByumTZHFvUaHlIdk/iW0goDr8P61s1h+PaeYUQQwzOIWyPxWtEweDIs/Z14QeQVgoYDs93+MYZDh4dRkhDp/N4s8dVVdgcx/YT0G1QqDswKHme20ZtA/sV/i6oczgJyY8hpt9g/lL5cX3drpGLO2pwCFy2kITE+VNo1mvvZDxs1ybMl/GoBX6VeUGmnQOrsEXJsNvEFsYPg0lnwo0ufKM3a9EMEDK8akE/Z8ioC6QIrJRICzKcdqhgG58+pnVgqvFSVJxMx10Q4ZRxWjky63w6nabY5EjSAg8AJwmZHZjkWrtsjqdrKJl2Rr+1zmt00uWQlIqFPh13HpjUWPBJVzzcfk3NxZCM+tCIjPvQGIdlD5qQaR+aklkfmpHLPnRJrvrQFbnuQ9dkiHzQpeJzZE6KB7LK8RJFZgeiHAtKK9gJ3AQinRDs8H2QnXS19lP/BJ7hlSfqW+dYoqBEcssTkqpLTghovhbYZEGS41iSS2TTitGifs902C/seHB91PNiZSXgNdYXBUqckQWzgipn8TM9bXlW7BlQUb+6SVYcErzmga92dIvzJFyX9owKPxr4p3WsxZfWGVF1fcYldvRZaXg2QXOTnvURiNQ8i/7QwqF0p7bPtDgjx4elZ71gX7S7ZPpK0qeJV37SXm5/+qF7bBrm5/AZHzgg/IMZHxKeyGfceK2FpAbOFRXbWefnrMPTINj9D2uDozrqCwAA",
+          "wasOffline": "0",
+          "downloader_enabled": "1",
+          "BoardSettings": "{\"name\":\"hoverboard\",\"powerups\":[0]}",
+          "sirco_access_expires": "2026-02-15T17:49:32.617Z",
+          "userCode": "SLG-4513",
+          "sirco_announcement_dismissed": "We apologize for the recent outages, this is due to a server issue in which we are attempting to fix. In other news, Supertube has gotten a revamp with new UI and, best of all, no more timer! You can now watch Supertube without limits. Other additions include a watch history, and you can now watch any video even if it's restricted!"
+        },
+        "cookies": {
+          "_ga_CC4ZKKC8EF": "GS2.1.s1765601054$o1$g1$t1765601191$j60$l0$h0",
+          "_ga": "GA1.1.123376392.1765601054",
+          "_ga_GYMF5NRSDN": "GS2.1.s1766093891$o3$g1$t1766093893$j58$l0$h0",
+          "_ga_VKK1BVCT2G": "GS2.1.s1767905465$o8$g0$t1767905465$j60$l0$h0",
+          "_ga_20CSCVKLF3": "GS2.1.s1770304434$o3$g0$t1770305004$j60$l0$h0",
+          "cbLDBex": "1",
+          "supertube_history": "%5B%7B%22id%22%3A%22dbzWAawMC-o%22%2C%22title%22%3A%22Noob%20to%20Pro%20in%20Bee%20Swarm%20Simulator%20-%20The%20PERFECT%20START!%20(Episode%201)%22%2C%22channel%22%3A%22Yarikz%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FdbzWAawMC-o%2Fhqdefault.jpg%22%2C%22ts%22%3A1770386214000%7D%2C%7B%22id%22%3A%22jYKqqIykE4k%22%2C%22title%22%3A%2247%20Evolutions%20That%20Would%20BREAK%20Clash%20Royale%20*JYNXZI%20REACTS*%22%2C%22channel%22%3A%22Jynxzi%20Live%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FjYKqqIykE4k%2Fhqdefault.jpg%22%2C%22ts%22%3A1770355619211%7D%2C%7B%22id%22%3A%220F9Q9vXV2cA%22%2C%22title%22%3A%221.6%20HOG%20CYCLE%22%2C%22channel%22%3A%22Jynxzi%20Live%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F0F9Q9vXV2cA%2Fhqdefault.jpg%22%2C%22ts%22%3A1770354670649%7D%2C%7B%22id%22%3A%22j2pc9cG9UfE%22%2C%22title%22%3A%22These%20FNAF%20Animatronics%20Are%20SINISTER..%22%2C%22channel%22%3A%22Aimin%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2Fj2pc9cG9UfE%2Fhqdefault.jpg%22%2C%22ts%22%3A1770354078654%7D%2C%7B%22id%22%3A%22-Xaqd9xzuOw%22%2C%22title%22%3A%22They%20Gave%20Me%20Fredbear's%20Speed...%22%2C%22channel%22%3A%22Aimin%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F-Xaqd9xzuOw%2Fhqdefault.jpg%22%2C%22ts%22%3A1770304385356%7D%2C%7B%22id%22%3A%22HPw9IFYtIjk%22%2C%22title%22%3A%22(Dragon%20Ball%20Legends)%20ULTRA%20KID%20BUU%20WITH%20HIS%20PLATINUM%20EQUIPMENT%201%20SHOTS%20RED%20ULTRA%20BUUHAN%20%F0%9F%98%82%F0%9F%98%82%F0%9F%98%82%F0%9F%98%82%22%2C%22channel%22%3A%22Goresh%22%2C%22thumb%22%3A%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FHPw9IFYtIjk%2Fhqdefault.jpg%22%2C%22ts%22%3A1770296583464%7D%5D"
+        }
+      },
+      "autoCreatedViaCheckStatus": true,
+      "lastSyncedAt": "2026-02-06T14:37:35.517Z"
+    },
+    "c1816769-2c59-45b3-8ed5-b18c70400d18": {
+      "clientId": "c1816769-2c59-45b3-8ed5-b18c70400d18",
+      "username": "nscrosggs",
+      "userCode": "XDA-6952",
+      "accessCookieId": "f7aae7c7-c130-4420-a072-074621838e17",
+      "createdAt": "2026-02-06T14:37:49.911Z",
+      "creationIP": "136.34.219.151",
+      "lastIP": "136.34.219.151",
+      "lastSeen": "2026-02-06T14:37:49.912Z",
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "syncedData": {
+        "localStorage": {
+          "bb_testh": "233887607",
+          "bb_sfx_svh": "-303114814",
+          "bb_sfx_sv": "{\"m\":true,\"sf\":true}",
+          "bb_test": "{\"invsav\":{\"l_e\":1770303521398,\"achievs\":{\"points3\":0,\"dunks\":0,\"fromBlock\":0,\"buzzer\":0,\"blocks\":0,\"steals\":0,\"scores\":0,\"pointsM\":0,\"pointsMH\":0,\"pointsT\":0,\"pointsTH\":0,\"idNet\":0,\"forum\":0,\"GC1\":0,\"SC1\":0,\"BC1\":0,\"GC2\":0,\"SC2\":0,\"BC2\":0,\"GC1H\":0,\"GC2H\":0},\"stats\":{\"points3\":5,\"dunks\":2,\"fromBlock\":0,\"buzzer\":0,\"blocks\":3,\"steals\":9,\"scores\":19,\"scores1\":0,\"scores2\":8910},\"tsave\":{\"state\":2,\"mode\":1,\"scores\":8910,\"team\":16,\"difficulty\":0,\"player\":1,\"teamRound\":13,\"posOfTeam\":[0,1],\"opponent\":12,\"rounds\":[[6,7],[2,1],[4,8],[3,5],[10,11],[15,16],[13,9],[12,14],[7,2],[8,3],[10,16],[9,12],[2,8],[16,12]],\"results\":[[36,42],[37,30],[40,47],[34,27],[49,41],[0,13],[42,45],[46,40],[26,32],[34,30],[4,18],[37,43]],\"points\":31},\"firstRun\":false}}"
+        },
+        "cookies": {
+          "_ga": "GA1.1.1532150071.1770150429",
+          "_ga_VKK1BVCT2G": "GS2.1.s1770150428$o1$g1$t1770150730$j60$l0$h0",
+          "_ga_20CSCVKLF3": "GS2.1.s1770226726$o2$g0$t1770226726$j60$l0$h0"
+        }
+      },
+      "autoCreatedViaCheckStatus": true,
+      "lastSyncedAt": "2026-02-06T14:37:49.912Z",
+      "accessExpires": "2026-02-13T20:25:12.399Z",
+      "accessNeverExpires": false,
+      "accessSyncedAt": "2026-02-06T14:37:49.950Z"
+    }
+  },
+  "accessCookies": {
+    "78cc5102-98fb-40ef-83c3-4d6d99a44ff7": {
+      "clientId": "5c61f737-4090-45ee-87fa-dd9ff2871aef",
+      "username": "Noyerinde626",
+      "createdAt": "2026-02-06T14:37:35.478Z",
+      "lastUsed": "2026-02-06T14:37:35.478Z"
+    },
+    "0cf61cce-05eb-40e3-983a-61fe62100772": {
+      "clientId": "7fcfe0fb-7e11-4d4c-b9f2-836072ef7196",
+      "username": "Himothy",
+      "createdAt": "2026-02-06T14:37:35.504Z",
+      "lastUsed": "2026-02-06T14:37:35.504Z"
+    },
+    "f7aae7c7-c130-4420-a072-074621838e17": {
+      "clientId": "c1816769-2c59-45b3-8ed5-b18c70400d18",
+      "username": "nscrosggs",
+      "createdAt": "2026-02-06T14:37:49.911Z",
+      "lastUsed": "2026-02-06T14:37:49.911Z"
+    }
+  },
+  "bannedIPs": [],
+  "bannedUsers": [],
+  "serverSettings": {
+    "ownerPassword": "[REDACTED]",
+    "tempActivationPin": "[REDACTED]",
+    "permActivationPin": "[REDACTED]",
+    "chromebookAuthorityCode": "[REDACTED]",
+    "dynamicFolderName": "CODE",
+    "adminApiPassword": "[REDACTED]",
+    "adminPassword": "[REDACTED]",
+    "aiApiKeys": [
+      "[REDACTED]",
+      "[REDACTED]"
+    ],
+    "sessionSecret": "[REDACTED]",
+    "siteStatus": "normal"
+  }
+}
